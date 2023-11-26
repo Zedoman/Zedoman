@@ -1,10 +1,4 @@
-### Hi there 👋
-
-
-
-
-Here are some ideas to get you started:
-👋 Hi, I’m @Zedoman
+### Hi there 👋 I’m @Zedoman
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
