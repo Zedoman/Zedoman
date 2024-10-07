@@ -7,15 +7,12 @@
 [![Zedoman's GitHub | Languages Over Time](https://stats.quira.sh/Zedoman/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Zedoman)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedoman&label=Profile%20views&color=0e75b6&style=flat" alt="zedoman" /> </p>
 
-- 🔭 I’m currently working on [Study_Hero](https://github.com/Zedoman/Study_Hero_epics)
-
-- 🌱 I’m currently learning **AWS , Three.js**
 
 - 👨‍💻 All of my projects are available at [https://zedoman.github.io/Portfolio/](https://zedoman.github.io/Portfolio/)
 
 - 📝 I sometimes write articles on [Medium](Medium)
 
-- 💬 Ask me about **MERN , Azure Cloud , Docker**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **12346arjo@gmail.com**
 
