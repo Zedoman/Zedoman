@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **12346arjo@gmail.com**
+- 📫 How to reach me **avradeepnayak@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bXxYI49LGlpGrdI1KaE8wQ2vJII0fV_S/view?usp=sharing](https://drive.google.com/file/d/1bXxYI49LGlpGrdI1KaE8wQ2vJII0fV_S/view?usp=sharing)
 
