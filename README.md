@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **avradeepnayak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bXxYI49LGlpGrdI1KaE8wQ2vJII0fV_S/view?usp=sharing](https://drive.google.com/file/d/1bXxYI49LGlpGrdI1KaE8wQ2vJII0fV_S/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eaGtPrlGwUCkRnD3gBfHYmTXtBi4HF_C/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
