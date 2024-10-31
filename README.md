@@ -46,13 +46,25 @@
 
 <p align="center">
 <img
-    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-    alt="C"
-/>
+    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
+/>    
 <img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
     alt="Python"
 />
+<img
+    src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+    alt="GO"
+/>
+<img
+    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
+    alt="C"
+/>    
+<img
+    src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"
+    alt="Latex"
+/>    
 </p>
 
 <p align="center">
@@ -94,6 +106,14 @@
     src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB"
     alt="Express.js"
 />
+<img
+    src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"
+    alt="BunJS"
+/>
+<img
+    src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+/>
 </p>
 
 <p align="center">
@@ -105,8 +125,8 @@
     src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white;"
     alt="MySQL"
 />
-    <img
-    src="ttps://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+<img
+    src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
     alt="Redis"
 />
 </p>
