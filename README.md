@@ -50,14 +50,6 @@
     alt="C"
 />
 <img
-    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
-    alt="C++"
-/>
-<img
-    src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&amp;logo=fortran&amp;logoColor=white"
-    alt="Fortran"
-/>
-<img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
     alt="Python"
 />
@@ -92,20 +84,12 @@
     alt="VueJS"
 />
 <img
-    src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white"
-    alt="SASS"
-/>
-<img
     src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white"
     alt="TailwindCSS"
 />
 </p>
 
 <p align="center">
-<img
-    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
-    alt="Django"
-/>
 <img
     src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
     alt="NodeJS"
@@ -125,10 +109,6 @@
     src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white;"
     alt="MySQL"
 />
-<img
-    src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white"
-    alt="MariaDB"
-/>
 
 <p align="center">
 <img
@@ -142,10 +122,6 @@
 </p>
 
 <p align="center">
-<img
-    src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white"
-    alt="Trello"
-/>
 </p>
 
 <br/>
