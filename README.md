@@ -157,6 +157,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedoman&show_icons=true&locale=en" alt="zedoman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedoman&" alt="zedoman" /></p>
+
 [![Zedoman's GitHub | Languages Over Time](https://stats.quira.sh/Zedoman/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Zedoman)
+
 [![Zedoman's GitHub | Stats](https://stats.quira.sh/Zedoman/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Zedoman)
 
