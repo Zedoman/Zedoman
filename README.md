@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zedoman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zedoman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avradeep nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avradeep nayak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avradeep-nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avradeep nayak" height="30" width="40" /></a>
 <a href="https://instagram.com/__zedoman__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__zedoman__" height="30" width="40" /></a>
 <a href="https://medium.com/@12346arjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@12346arjo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zedoman55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zedoman55" height="30" width="40" /></a>
@@ -151,22 +151,6 @@
 <br/>
 <br/>
 
-## <p align="center"> 📈 GitHub Stats 📉</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=susheelthapa&theme=blueberry&hide_border=true"
-    alt="Github Streak"
-  />
-</p>
-<p align="center">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=SusheelThapa">
-    <img
-        src="https://stats.quine.sh/SusheelThapa/github?theme=dark"
-        alt="SusheelThapa's GitHub | Stats"
-    />
-  </a>
-</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedoman&show_icons=true&locale=en" alt="zedoman" /></p>
