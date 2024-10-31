@@ -105,7 +105,11 @@
     src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white;"
     alt="MySQL"
 />
-
+    <img
+    src="ttps://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+    alt="Redis"
+/>
+</p>
 <p align="center">
 <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white"
@@ -114,6 +118,13 @@
 <img
     src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens"
     alt="JWT"
+/>
+</p>
+
+<p align="center">
+<img
+    src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"
+    alt="S3"
 />
 </p>
 
