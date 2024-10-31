@@ -5,7 +5,7 @@
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zedoman&label=Profile%20views&color=0e75b6&style=flat" alt="zedoman" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://zedoman.github.io/Portfolio/](https://zedoman.github.io/Portfolio/)
 
@@ -155,7 +155,7 @@
 
 
 [![Zedoman's GitHub | Languages Over Time](https://stats.quira.sh/Zedoman/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Zedoman)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zedoman&label=Profile%20views&color=0e75b6&style=flat" alt="zedoman" /> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedoman&show_icons=true&locale=en" alt="zedoman" /></p>
 
