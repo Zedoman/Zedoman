@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedoman&label=Profile%20views&color=0e75b6&style=flat" alt="zedoman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://zedoman.github.io/Portfolio/](https://zedoman.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://avradeep.netlify.app/)
 
 - 🔭 I’m currently studying on <strong>VIT Bhopal</strong> 🔭
 
