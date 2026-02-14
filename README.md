@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eaGtPrlGwUCkRnD3gBfHYmTXtBi4HF_C/view?usp=drive_link)
 
-- 📄 Open Source [Quira](https://quira.sh/user/Zedoman)
+- 📄 Open Source [Quira](https://quira.sh/user/Zedoman), [Shipd](https://shipd.ai/user/avradeep)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
